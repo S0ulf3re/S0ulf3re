@@ -2,8 +2,6 @@
  Wacky Toon on the internet
 (Also works with Apple frameworks and Linux servers)
 
-[![GitHub latest commit](https://badgen.net/github/last-commit/S0ulf3re/S0ulf3re)](https://GitHub.com/S0ulf3re/S0ulf3re/commit/)
-
 ## About 
 I’m Soulfire Jarexi Backblaze! Or you can simply call me Soulfire. I am a 19 year old wolf who is currently studying at Miami University.
 
