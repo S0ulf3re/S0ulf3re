@@ -1,6 +1,7 @@
 # Soulfire the Wolf
  Wacky Toon on the internet
 (Also works with Apple frameworks and Linux servers)
+
 [![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/S0ulf3re/S0ulf3re/commit/)
 
 ## About 
