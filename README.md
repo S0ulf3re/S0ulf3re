@@ -1,5 +1,8 @@
 # Soulfire the Wolf
+## Wacky Toon on the internet
+### (Also works with Apple frameworks and Linux servers)
 
-## About me
-![Next Cloud]()(https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
+I’m Soulfire Jarexi Backblaze! Or you can simply call me Soulfire. I am a 19 year old wolf who is currently studying at Miami University. 
+
+
 
