@@ -18,9 +18,9 @@ soulfire-j-backblaze
 
 D0nk m3m3s
 
-![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
+![Misskey](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
 
-@soulfire@toony.club
+@soulfire@thetooniverse.xyz
 _(instance open for registrations!)_
 
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
