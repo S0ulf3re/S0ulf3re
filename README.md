@@ -1,5 +1,5 @@
 # Soulfire the Wolf
- Wacky Toon on the internet
+ Wacky Wolf on the internet
 (Also works with Apple frameworks, Linux servers, and web development)
 
 ## About 
