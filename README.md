@@ -20,16 +20,11 @@ D0nk m3m3s
 
 ![Akkoma](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
 
-@soulfire@social.thetooniverse.xyz
-_(instance open for registrations!)_
+@soulfire@wackywolf.xyz
 
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
 soulfire-the-wolf@protonmail.com
-
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-
-Dunked0n
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
