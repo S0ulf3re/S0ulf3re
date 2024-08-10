@@ -1,6 +1,6 @@
 # Soulfire the Wolf
  Wacky Wolf on the internet
-(Also works with Apple frameworks, Linux servers, and web development)
+(Also works with frameworks, Linux servers, and web development)
 
 ## About 
 I’m Soulfire Jarexi Backblaze! Or you can simply call me Soulfire. I am a wolf who is currently studying at Miami University. I like to work with Linux servers, Apple products, and a small amount of web development (save for react native). When i'm not messing around with computers, im usually watching cartoons or messaging friends.
