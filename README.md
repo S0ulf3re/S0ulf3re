@@ -18,9 +18,9 @@ soulfire-j-backblaze
 
 D0nk m3m3s
 
-![Akkoma](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
+![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
 
-@soulfire@wackywolf.xyz
+@soulfirethewolf@wetdry.world
 
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
